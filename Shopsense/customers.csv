@@ -1,0 +1,1201 @@
+customer_id,age,city,segment,join_date,gender
+C0001,56,New York,Occasional,2020-12-21,F
+C0002,69,Houston,Occasional,2021-11-10,F
+C0003,46,Philadelphia,New,2022-11-19,F
+C0004,32,San Antonio,Regular,2021-02-27,F
+C0005,60,Chicago,Regular,2022-09-22,M
+C0006,25,Houston,Regular,2022-05-09,F
+C0007,38,Phoenix,Regular,2022-11-05,M
+C0008,56,Philadelphia,Occasional,2021-10-07,F
+C0009,36,New York,Regular,2021-11-26,F
+C0010,40,New York,Occasional,2022-10-07,M
+C0011,28,Phoenix,Regular,2021-01-05,F
+C0012,28,Phoenix,Occasional,2022-06-28,F
+C0013,41,Chicago,Occasional,2022-08-28,F
+C0014,53,San Antonio,Regular,2022-11-02,M
+C0015,57,New York,Regular,2022-09-11,M
+C0016,41,Philadelphia,Regular,2022-12-24,M
+C0017,20,Houston,Premium,2022-02-16,M
+C0018,39,Philadelphia,Regular,2021-02-26,M
+C0019,19,Los Angeles,Premium,2022-03-17,F
+C0020,41,Los Angeles,Regular,2022-10-03,M
+C0021,61,Phoenix,Occasional,2022-12-20,F
+C0022,47,Chicago,Occasional,2022-10-05,F
+C0023,55,Los Angeles,Occasional,2022-06-19,F
+C0024,19,New York,Premium,2021-07-30,M
+C0025,38,Philadelphia,Occasional,2022-10-18,F
+C0026,50,Philadelphia,Regular,2021-09-24,F
+C0027,29,Phoenix,Regular,2020-12-26,M
+C0028,39,San Antonio,New,2022-05-26,M
+C0029,61,San Antonio,Premium,2021-04-13,F
+C0030,42,Houston,Occasional,2022-03-12,M
+C0031,66,Phoenix,Occasional,2021-12-28,M
+C0032,44,San Diego,Regular,2022-04-04,M
+C0033,59,Houston,Regular,2022-05-19,M
+C0034,45,San Diego,Regular,2022-09-26,F
+C0035,33,San Antonio,New,2022-08-23,M
+C0036,32,Phoenix,Regular,2022-08-30,F
+C0037,64,San Diego,Regular,2022-03-05,F
+C0038,68,Phoenix,Regular,2022-11-16,F
+C0039,61,Phoenix,Occasional,2020-07-08,F
+C0040,69,San Antonio,Premium,2021-09-23,F
+C0041,20,Houston,Regular,2022-06-28,M
+C0042,54,Houston,Occasional,2022-10-30,F
+C0043,68,Phoenix,New,2020-11-12,F
+C0044,24,Los Angeles,Regular,2021-04-08,F
+C0045,38,Chicago,Regular,2021-09-22,F
+C0046,26,San Antonio,Regular,2022-09-08,M
+C0047,56,Chicago,Occasional,2022-06-28,M
+C0048,35,Chicago,Regular,2022-11-23,F
+C0049,21,Houston,Regular,2022-10-17,M
+C0050,42,Houston,Occasional,2021-06-23,F
+C0051,31,Los Angeles,Occasional,2021-09-30,M
+C0052,67,Chicago,Regular,2022-02-07,M
+C0053,26,Chicago,New,2020-09-28,M
+C0054,43,Phoenix,Occasional,2022-02-16,M
+C0055,19,Houston,Regular,2022-05-17,F
+C0056,37,Chicago,Premium,2022-08-03,M
+C0057,45,Philadelphia,New,2020-03-08,Other
+C0058,64,Los Angeles,Premium,2022-12-01,F
+C0059,24,San Diego,Regular,2020-05-01,M
+C0060,61,Philadelphia,Premium,2021-04-02,F
+C0061,25,Philadelphia,Occasional,2022-11-12,F
+C0062,64,San Diego,Regular,2022-03-04,F
+C0063,52,San Antonio,Regular,2020-12-27,M
+C0064,31,San Antonio,Premium,2022-02-26,F
+C0065,34,Los Angeles,Premium,2020-08-17,F
+C0066,53,Philadelphia,Occasional,2020-02-21,M
+C0067,67,Chicago,Occasional,2022-06-15,M
+C0068,57,Houston,Regular,2022-07-13,F
+C0069,21,Los Angeles,Regular,2020-04-01,M
+C0070,19,Phoenix,Occasional,2021-11-17,F
+C0071,23,San Diego,Premium,2022-11-17,M
+C0072,59,Philadelphia,Regular,2022-12-17,F
+C0073,21,Los Angeles,New,2022-03-04,F
+C0074,46,New York,Occasional,2020-05-05,M
+C0075,35,New York,Regular,2021-02-22,M
+C0076,43,San Antonio,Regular,2021-11-16,F
+C0077,61,San Diego,Regular,2022-11-08,F
+C0078,51,Houston,Regular,2022-09-16,F
+C0079,27,Chicago,Premium,2020-12-02,M
+C0080,53,Houston,Premium,2022-10-20,M
+C0081,31,Houston,Premium,2022-09-04,M
+C0082,48,Houston,New,2022-11-12,F
+C0083,65,San Diego,Occasional,2021-11-16,M
+C0084,32,Houston,Regular,2020-02-15,M
+C0085,25,Phoenix,Regular,2022-09-09,F
+C0086,31,San Diego,Occasional,2022-05-11,F
+C0087,40,Phoenix,Regular,2021-12-30,M
+C0088,57,San Diego,Regular,2015-06-22,M
+C0089,38,San Antonio,New,2022-11-22,F
+C0090,33,Los Angeles,Regular,2022-04-25,F
+C0091,62,New York,Occasional,2022-07-08,M
+C0092,35,Houston,New,2020-12-29,F
+C0093,64,San Antonio,Regular,2022-05-11,F
+C0094,41,Los Angeles,Premium,2022-11-20,M
+C0095,43,New York,Regular,2021-12-30,M
+C0096,42,Philadelphia,Occasional,2021-07-13,F
+C0097,62,Chicago,New,2022-12-31,F
+C0098,58,Phoenix,Occasional,2021-01-17,M
+C0099,46,Philadelphia,Premium,2022-10-18,F
+C0100,32,San Diego,Occasional,2022-03-14,F
+C0101,62,New York,New,2022-06-19,M
+C0102,18,Philadelphia,Occasional,2021-09-24,F
+C0103,42,Chicago,New,2022-07-16,F
+C0104,24,San Antonio,Occasional,2020-12-18,M
+C0105,26,New York,Occasional,2021-09-10,M
+C0106,41,Philadelphia,Occasional,2021-12-17,M
+C0107,18,Phoenix,Regular,2021-05-31,F
+C0108,61,Phoenix,Regular,2021-08-08,Other
+C0109,25,Los Angeles,Occasional,2022-12-19,M
+C0110,41,Philadelphia,Regular,2022-07-02,F
+C0111,28,Houston,New,2020-05-02,F
+C0112,68,Philadelphia,New,2022-11-13,F
+C0113,34,San Antonio,Occasional,2021-09-01,M
+C0114,25,New York,Premium,2019-05-02,M
+C0115,52,New York,Regular,2022-12-13,M
+C0116,52,San Antonio,Premium,2021-11-09,F
+C0117,50,Philadelphia,Occasional,2022-05-16,M
+C0118,22,San Antonio,Occasional,2022-02-20,F
+C0119,59,Chicago,New,2022-11-30,M
+C0120,56,San Diego,Regular,2022-12-16,M
+C0121,58,San Antonio,New,2021-11-26,F
+C0122,45,Phoenix,New,2021-04-09,F
+C0123,24,San Antonio,Regular,2021-06-24,M
+C0124,26,New York,New,2022-03-21,M
+C0125,25,Phoenix,Regular,2022-11-24,Other
+C0126,29,New York,Regular,2021-11-02,M
+C0127,51,Los Angeles,Occasional,2022-09-22,M
+C0128,50,Houston,Regular,2020-08-01,F
+C0129,65,New York,Occasional,2021-03-08,M
+C0130,40,Phoenix,Occasional,2021-10-07,M
+C0131,41,Los Angeles,Occasional,2020-01-12,M
+C0132,54,New York,Regular,2022-12-21,M
+C0133,52,Chicago,Regular,2021-09-02,M
+C0134,61,San Antonio,Occasional,2022-08-08,M
+C0135,57,Houston,Regular,2020-08-21,M
+C0136,39,New York,Regular,2022-09-10,M
+C0137,44,Los Angeles,Premium,2021-09-17,F
+C0138,52,Chicago,Occasional,2020-11-26,M
+C0139,18,Philadelphia,Regular,2022-12-17,M
+C0140,52,Los Angeles,Occasional,2022-06-30,F
+C0141,54,San Antonio,Occasional,2021-07-26,F
+C0142,64,Los Angeles,Regular,2022-05-25,M
+C0143,31,Chicago,Regular,2022-09-10,F
+C0144,20,Los Angeles,New,2022-10-03,M
+C0145,18,Chicago,Occasional,2022-11-11,M
+C0146,22,New York,New,2021-01-21,F
+C0147,43,San Diego,Occasional,2022-02-23,F
+C0148,31,Chicago,Premium,2022-12-03,M
+C0149,56,Chicago,Premium,2022-07-09,M
+C0150,44,Houston,Regular,2022-07-18,F
+C0151,26,Chicago,Regular,2022-10-20,M
+C0152,32,Chicago,Regular,2022-06-07,F
+C0153,32,Philadelphia,Regular,2022-08-07,M
+C0154,43,San Diego,Regular,2022-08-02,F
+C0155,59,New York,Occasional,2021-08-29,F
+C0156,30,San Antonio,Occasional,2022-10-01,F
+C0157,68,Houston,Regular,2021-12-23,F
+C0158,49,Philadelphia,Occasional,2022-02-27,F
+C0159,56,Phoenix,Regular,2022-03-01,M
+C0160,66,San Diego,New,2021-11-30,M
+C0161,69,New York,Premium,2022-03-17,M
+C0162,49,New York,New,2020-11-21,F
+C0163,21,Phoenix,Occasional,2021-11-17,F
+C0164,47,San Antonio,Regular,2022-03-18,M
+C0165,54,Chicago,Regular,2021-03-26,M
+C0166,40,Philadelphia,Regular,2022-01-26,M
+C0167,56,Los Angeles,Regular,2022-08-29,F
+C0168,62,Houston,Regular,2022-10-09,M
+C0169,32,Los Angeles,Occasional,2022-11-02,F
+C0170,60,Phoenix,Regular,2020-09-15,Other
+C0171,46,New York,Occasional,2021-10-07,M
+C0172,53,San Antonio,New,2020-03-26,M
+C0173,30,New York,Regular,2022-01-29,M
+C0174,49,Houston,Occasional,2022-05-12,M
+C0175,24,New York,Premium,2022-12-10,M
+C0176,68,New York,Occasional,2021-11-21,M
+C0177,39,Houston,Regular,2022-02-17,F
+C0178,45,Philadelphia,New,2018-05-19,M
+C0179,19,Philadelphia,Occasional,2022-09-24,F
+C0180,59,Houston,Regular,2022-03-31,F
+C0181,62,San Antonio,Premium,2021-12-13,F
+C0182,23,Phoenix,New,2021-12-20,M
+C0183,45,San Diego,Occasional,2022-03-07,F
+C0184,45,New York,Regular,2021-07-03,M
+C0185,61,San Antonio,Regular,2022-10-10,F
+C0186,61,New York,Occasional,2021-09-16,F
+C0187,37,San Diego,Regular,2022-01-14,F
+C0188,47,Phoenix,New,2020-09-27,M
+C0189,28,Philadelphia,Regular,2021-02-15,F
+C0190,45,San Antonio,Premium,2022-08-16,M
+C0191,42,Chicago,Occasional,2022-09-05,M
+C0192,56,Chicago,Regular,2019-01-03,M
+C0193,50,San Diego,Regular,2022-04-03,M
+C0194,18,Chicago,Premium,2020-08-20,M
+C0195,44,Philadelphia,Premium,2022-10-28,F
+C0196,69,San Diego,Occasional,2021-12-22,F
+C0197,30,Philadelphia,Regular,2021-05-06,M
+C0198,58,Phoenix,Occasional,2020-01-23,M
+C0199,20,New York,Occasional,2022-08-04,M
+C0200,56,Phoenix,Occasional,2021-09-17,M
+C0201,23,Phoenix,Regular,2022-03-25,M
+C0202,25,Philadelphia,Regular,2022-12-10,F
+C0203,44,San Diego,New,2021-10-31,M
+C0204,26,San Diego,Occasional,2021-10-31,M
+C0205,54,Chicago,Occasional,2020-05-03,M
+C0206,50,Los Angeles,Regular,2022-04-25,F
+C0207,68,New York,Regular,2022-09-28,F
+C0208,59,Philadelphia,Occasional,2022-12-16,F
+C0209,61,Chicago,New,2022-06-19,F
+C0210,41,San Antonio,Occasional,2022-08-23,M
+C0211,32,Los Angeles,Occasional,2021-07-28,M
+C0212,49,Los Angeles,Occasional,2022-07-26,F
+C0213,49,Philadelphia,Premium,2020-01-11,M
+C0214,41,Houston,Regular,2019-09-23,F
+C0215,58,New York,Regular,2022-01-12,M
+C0216,69,Los Angeles,Regular,2020-05-13,M
+C0217,66,Philadelphia,New,2021-07-28,F
+C0218,66,Philadelphia,Regular,2022-03-19,F
+C0219,69,Chicago,Regular,2022-10-21,F
+C0220,29,San Antonio,Regular,2022-05-23,M
+C0221,56,Houston,Regular,2022-03-07,F
+C0222,19,New York,Regular,2021-01-03,M
+C0223,20,San Diego,Regular,2022-05-07,M
+C0224,66,Phoenix,Occasional,2020-09-21,M
+C0225,54,San Antonio,Regular,2021-11-18,M
+C0226,66,San Antonio,Occasional,2022-11-09,M
+C0227,34,Chicago,Premium,2017-09-17,M
+C0228,66,San Diego,Premium,2022-04-03,M
+C0229,19,Los Angeles,Regular,2022-07-04,M
+C0230,19,Los Angeles,Occasional,2021-12-05,M
+C0231,45,Chicago,Occasional,2022-11-20,M
+C0232,40,Philadelphia,Regular,2021-12-28,M
+C0233,54,Los Angeles,Regular,2022-04-25,F
+C0234,49,Houston,Occasional,2022-06-25,M
+C0235,50,New York,Premium,2019-12-12,M
+C0236,18,San Antonio,Regular,2022-04-07,M
+C0237,36,San Antonio,Occasional,2022-10-03,F
+C0238,19,Houston,Occasional,2022-05-22,F
+C0239,61,San Diego,Regular,2020-06-26,F
+C0240,43,Los Angeles,New,2022-10-23,F
+C0241,49,San Antonio,Occasional,2022-10-06,F
+C0242,23,Phoenix,Regular,2022-12-28,F
+C0243,49,San Diego,Occasional,2022-12-27,F
+C0244,21,New York,Occasional,2021-03-27,M
+C0245,28,New York,Regular,2021-09-08,M
+C0246,34,San Antonio,Regular,2022-07-25,M
+C0247,55,Chicago,Regular,2021-10-21,F
+C0248,41,San Diego,Occasional,2022-07-02,F
+C0249,22,San Antonio,Regular,2019-12-13,F
+C0250,69,Chicago,Occasional,2019-08-05,M
+C0251,51,San Antonio,Occasional,2022-07-03,M
+C0252,23,Phoenix,Premium,2021-01-29,M
+C0253,39,San Diego,Occasional,2021-07-09,M
+C0254,28,Philadelphia,Regular,2022-08-19,F
+C0255,65,New York,Occasional,2022-09-27,F
+C0256,33,San Antonio,Occasional,2022-05-23,M
+C0257,50,Phoenix,Regular,2021-06-26,F
+C0258,26,Chicago,Regular,2019-10-13,M
+C0259,23,Chicago,Regular,2021-07-24,Other
+C0260,33,New York,Premium,2021-01-26,M
+C0261,46,Houston,Regular,2022-01-29,M
+C0262,20,San Antonio,Regular,2021-03-14,M
+C0263,37,San Diego,New,2021-06-20,M
+C0264,53,Los Angeles,Regular,2022-07-13,M
+C0265,36,Chicago,Regular,2022-03-14,F
+C0266,43,San Diego,Occasional,2021-05-15,F
+C0267,20,San Diego,Premium,2022-12-15,F
+C0268,36,Philadelphia,New,2021-05-09,M
+C0269,37,San Diego,Occasional,2022-10-22,F
+C0270,49,San Diego,Occasional,2022-04-13,M
+C0271,24,Philadelphia,Regular,2021-05-09,M
+C0272,69,Chicago,Regular,2022-09-17,F
+C0273,58,San Diego,Regular,2022-09-21,F
+C0274,50,Houston,Occasional,2022-06-27,M
+C0275,57,Houston,Premium,2020-10-02,M
+C0276,56,Phoenix,Regular,2023-01-01,Other
+C0277,35,Philadelphia,New,2020-09-08,M
+C0278,57,Phoenix,Regular,2022-11-02,M
+C0279,18,Philadelphia,Regular,2018-05-23,F
+C0280,28,San Antonio,Premium,2019-11-28,M
+C0281,45,San Antonio,New,2022-04-27,M
+C0282,42,San Diego,Premium,2022-04-14,M
+C0283,67,Los Angeles,Occasional,2022-05-07,F
+C0284,40,San Antonio,Occasional,2021-12-29,F
+C0285,48,Los Angeles,Regular,2022-11-28,F
+C0286,47,San Antonio,Occasional,2022-12-20,Other
+C0287,59,New York,Premium,2022-12-11,F
+C0288,52,San Antonio,Regular,2022-06-01,M
+C0289,24,Phoenix,Occasional,2022-09-06,M
+C0290,33,Chicago,New,2022-01-11,F
+C0291,43,San Diego,Occasional,2018-02-13,F
+C0292,65,Phoenix,Regular,2022-07-07,F
+C0293,69,Chicago,Regular,2022-02-24,F
+C0294,66,Houston,Premium,2022-06-19,M
+C0295,19,Phoenix,Premium,2021-02-15,M
+C0296,18,Houston,Regular,2020-09-05,M
+C0297,65,Los Angeles,Regular,2020-11-27,M
+C0298,29,Los Angeles,Regular,2019-05-05,M
+C0299,22,New York,Regular,2022-12-22,F
+C0300,54,San Antonio,Regular,2021-03-04,F
+C0301,49,Phoenix,Regular,2021-08-11,M
+C0302,26,Houston,Occasional,2022-09-29,M
+C0303,58,Chicago,Regular,2019-11-16,F
+C0304,52,Los Angeles,New,2022-11-04,M
+C0305,36,San Antonio,New,2021-11-12,F
+C0306,65,Los Angeles,Regular,2022-10-01,F
+C0307,33,Chicago,Occasional,2022-06-09,F
+C0308,20,San Antonio,Occasional,2021-09-25,F
+C0309,37,San Antonio,Occasional,2022-03-05,F
+C0310,41,Houston,Regular,2022-06-12,M
+C0311,50,Houston,Regular,2022-08-10,M
+C0312,41,Phoenix,Regular,2021-03-04,M
+C0313,69,Phoenix,Regular,2022-11-06,Other
+C0314,28,Philadelphia,Occasional,2022-06-10,M
+C0315,66,San Diego,Occasional,2020-08-30,M
+C0316,25,Philadelphia,Regular,2021-02-18,F
+C0317,53,New York,Occasional,2022-06-28,F
+C0318,55,Los Angeles,Premium,2021-07-25,F
+C0319,57,Phoenix,Regular,2021-04-09,M
+C0320,37,Houston,Occasional,2020-10-22,M
+C0321,52,Chicago,Regular,2022-03-20,M
+C0322,65,Houston,Premium,2022-10-10,M
+C0323,42,Los Angeles,Regular,2022-09-16,M
+C0324,52,Philadelphia,Regular,2022-08-27,M
+C0325,42,Houston,New,2022-02-07,F
+C0326,46,San Diego,Occasional,2022-12-20,M
+C0327,35,New York,New,2021-12-29,F
+C0328,63,Los Angeles,Occasional,2022-07-20,F
+C0329,35,Philadelphia,Regular,2022-08-27,M
+C0330,19,San Diego,Regular,2020-11-20,F
+C0331,52,Chicago,Occasional,2022-05-22,M
+C0332,33,Philadelphia,Premium,2022-11-26,M
+C0333,58,San Antonio,New,2021-04-02,F
+C0334,53,San Diego,Occasional,2022-12-15,M
+C0335,50,San Diego,Regular,2021-09-15,Other
+C0336,21,New York,New,2021-07-08,M
+C0337,50,Los Angeles,Occasional,2022-07-27,F
+C0338,31,Chicago,Occasional,2021-04-06,M
+C0339,38,New York,Premium,2022-04-12,M
+C0340,65,Philadelphia,Regular,2022-05-19,M
+C0341,37,New York,Regular,2022-12-16,F
+C0342,25,San Diego,Regular,2022-08-29,F
+C0343,24,Los Angeles,Premium,2020-05-01,F
+C0344,20,Phoenix,Occasional,2022-07-04,F
+C0345,34,New York,Premium,2022-03-19,F
+C0346,50,San Antonio,Occasional,2022-03-30,F
+C0347,65,New York,New,2022-02-10,F
+C0348,29,Philadelphia,New,2022-12-09,F
+C0349,68,Philadelphia,Regular,2022-07-21,F
+C0350,39,Chicago,New,2021-09-20,F
+C0351,39,Philadelphia,Premium,2022-10-12,M
+C0352,63,Houston,Premium,2022-10-10,F
+C0353,47,Los Angeles,Occasional,2022-12-29,F
+C0354,55,Los Angeles,Regular,2022-06-06,M
+C0355,55,Phoenix,Regular,2020-11-10,M
+C0356,62,Phoenix,Occasional,2022-12-13,M
+C0357,68,Los Angeles,Regular,2022-10-16,F
+C0358,25,San Antonio,Regular,2022-08-19,F
+C0359,44,Phoenix,Regular,2021-09-08,M
+C0360,44,Chicago,Occasional,2021-12-24,F
+C0361,51,Philadelphia,Occasional,2022-06-19,F
+C0362,38,Los Angeles,Regular,2021-07-31,M
+C0363,47,San Diego,Regular,2022-01-23,F
+C0364,50,Phoenix,Regular,2020-09-27,Other
+C0365,45,Los Angeles,Premium,2021-04-20,F
+C0366,64,Houston,Occasional,2022-09-17,F
+C0367,50,New York,Regular,2022-09-08,Other
+C0368,22,Philadelphia,Regular,2022-11-14,F
+C0369,65,Los Angeles,Occasional,2022-08-05,M
+C0370,36,New York,Occasional,2015-04-26,F
+C0371,21,Phoenix,Occasional,2022-06-26,F
+C0372,52,New York,Regular,2022-10-03,F
+C0373,66,Philadelphia,Regular,2021-07-26,M
+C0374,34,Los Angeles,Regular,2022-03-22,F
+C0375,61,Houston,Regular,2022-11-03,M
+C0376,45,San Antonio,Occasional,2022-07-11,F
+C0377,47,Phoenix,Occasional,2022-06-20,M
+C0378,46,Los Angeles,Occasional,2021-08-08,M
+C0379,63,Philadelphia,Occasional,2022-12-25,M
+C0380,23,Phoenix,Regular,2022-09-09,M
+C0381,52,Chicago,Occasional,2022-04-10,F
+C0382,58,New York,Regular,2022-09-09,F
+C0383,54,San Antonio,Regular,2022-01-05,F
+C0384,41,Philadelphia,Regular,2022-05-07,M
+C0385,46,Chicago,Regular,2022-07-22,M
+C0386,66,San Diego,Regular,2020-01-10,F
+C0387,63,Los Angeles,New,2022-01-01,F
+C0388,48,Houston,Regular,2022-11-12,M
+C0389,52,Phoenix,Premium,2022-03-08,F
+C0390,50,New York,Regular,2021-06-27,M
+C0391,69,Phoenix,Occasional,2021-10-09,F
+C0392,38,San Antonio,Occasional,2022-10-25,F
+C0393,49,Los Angeles,Occasional,2019-06-01,M
+C0394,40,Phoenix,Regular,2022-05-29,M
+C0395,50,New York,Occasional,2022-10-30,F
+C0396,20,Los Angeles,Regular,2022-10-21,M
+C0397,35,Phoenix,Occasional,2022-11-25,M
+C0398,42,Houston,Occasional,2021-05-18,F
+C0399,59,Philadelphia,Regular,2022-11-15,M
+C0400,48,Los Angeles,Premium,2022-11-14,M
+C0401,20,Philadelphia,Premium,2021-02-07,F
+C0402,57,San Diego,Regular,2022-07-31,F
+C0403,63,Los Angeles,Regular,2022-12-21,F
+C0404,41,Houston,Occasional,2022-12-13,F
+C0405,67,Philadelphia,Regular,2022-11-07,F
+C0406,49,Chicago,Regular,2022-10-06,F
+C0407,64,New York,Premium,2021-11-28,M
+C0408,39,Chicago,Premium,2022-10-31,F
+C0409,40,Phoenix,New,2022-11-16,Other
+C0410,19,Houston,Regular,2021-07-22,M
+C0411,44,Chicago,Occasional,2021-11-22,M
+C0412,59,Los Angeles,Occasional,2022-06-07,F
+C0413,19,Phoenix,Occasional,2022-03-17,M
+C0414,43,Phoenix,New,2022-08-18,M
+C0415,34,Chicago,Regular,2022-05-06,F
+C0416,57,San Diego,New,2022-04-19,Other
+C0417,50,Chicago,Premium,2022-07-07,M
+C0418,26,San Diego,Premium,2020-08-19,M
+C0419,60,Houston,Occasional,2022-12-27,M
+C0420,65,New York,New,2021-06-24,F
+C0421,56,Chicago,Occasional,2022-11-14,M
+C0422,46,San Antonio,Premium,2021-05-29,M
+C0423,59,San Diego,Regular,2022-01-17,M
+C0424,43,Chicago,New,2021-02-24,M
+C0425,52,Philadelphia,Regular,2022-11-25,F
+C0426,67,Los Angeles,Occasional,2022-03-09,F
+C0427,42,San Antonio,Occasional,2022-04-23,F
+C0428,41,San Antonio,Regular,2021-10-11,F
+C0429,30,San Diego,Regular,2022-03-29,M
+C0430,24,Philadelphia,Regular,2022-03-23,F
+C0431,53,Philadelphia,Regular,2022-06-11,F
+C0432,62,Phoenix,New,2022-08-20,M
+C0433,37,San Diego,Regular,2022-05-06,F
+C0434,18,New York,New,2022-11-16,M
+C0435,25,Los Angeles,Premium,2019-10-01,F
+C0436,63,Houston,New,2021-10-01,M
+C0437,33,San Antonio,Regular,2019-12-17,Other
+C0438,31,Houston,Premium,2022-09-30,M
+C0439,29,Chicago,Premium,2020-11-21,F
+C0440,68,Chicago,Occasional,2021-05-08,F
+C0441,40,Houston,Occasional,2021-11-15,F
+C0442,32,Chicago,Occasional,2022-01-08,M
+C0443,45,New York,Premium,2022-08-16,F
+C0444,51,Philadelphia,Premium,2021-04-23,F
+C0445,19,Chicago,Regular,2022-04-22,M
+C0446,49,Phoenix,Regular,2022-12-06,M
+C0447,40,Chicago,Regular,2022-08-18,F
+C0448,39,Los Angeles,New,2020-04-07,F
+C0449,68,New York,New,2021-02-06,M
+C0450,42,Los Angeles,New,2018-12-29,M
+C0451,39,Los Angeles,Occasional,2022-01-06,M
+C0452,39,Phoenix,Regular,2022-09-20,F
+C0453,66,New York,Regular,2022-10-29,F
+C0454,69,New York,Regular,2022-10-18,F
+C0455,59,San Diego,Occasional,2022-12-25,Other
+C0456,23,New York,Premium,2022-07-05,M
+C0457,32,New York,Regular,2022-10-16,M
+C0458,60,New York,Premium,2022-06-22,M
+C0459,54,Phoenix,Regular,2020-04-09,M
+C0460,50,Chicago,New,2022-06-10,F
+C0461,25,San Diego,Occasional,2020-11-25,F
+C0462,61,Los Angeles,Regular,2022-01-27,M
+C0463,61,New York,New,2022-09-20,M
+C0464,22,San Antonio,Occasional,2022-07-25,F
+C0465,56,Chicago,Premium,2022-12-01,F
+C0466,21,Chicago,Regular,2022-08-06,M
+C0467,23,Los Angeles,Regular,2021-11-14,Other
+C0468,62,Phoenix,Premium,2022-12-05,F
+C0469,49,Houston,New,2022-10-10,M
+C0470,69,Houston,Regular,2022-07-10,F
+C0471,47,Chicago,New,2018-12-26,M
+C0472,64,Philadelphia,Regular,2021-06-20,F
+C0473,52,Philadelphia,Premium,2021-09-06,Other
+C0474,57,Los Angeles,Regular,2022-11-17,F
+C0475,69,Houston,Premium,2021-06-26,F
+C0476,33,Chicago,Regular,2021-06-19,M
+C0477,30,Phoenix,New,2022-01-31,F
+C0478,67,Houston,Regular,2018-05-13,F
+C0479,59,Chicago,Occasional,2022-08-11,F
+C0480,47,Chicago,Regular,2020-03-03,F
+C0481,36,New York,Premium,2020-07-17,Other
+C0482,34,Phoenix,Premium,2022-12-28,F
+C0483,36,New York,Occasional,2022-05-28,M
+C0484,45,Los Angeles,Premium,2019-03-25,Other
+C0485,43,New York,Regular,2022-11-23,F
+C0486,54,San Antonio,Occasional,2022-03-18,F
+C0487,43,New York,Regular,2019-02-22,F
+C0488,40,San Antonio,Regular,2022-03-12,M
+C0489,26,Houston,Regular,2022-10-17,M
+C0490,29,Philadelphia,New,2022-02-17,F
+C0491,18,San Diego,Occasional,2022-10-10,F
+C0492,18,San Diego,Regular,2022-04-09,M
+C0493,64,Chicago,Premium,2022-12-04,F
+C0494,51,San Diego,New,2022-01-27,M
+C0495,49,San Antonio,Occasional,2022-04-11,F
+C0496,65,Phoenix,Regular,2021-08-28,M
+C0497,42,New York,New,2022-01-03,M
+C0498,57,San Antonio,Regular,2022-03-16,M
+C0499,62,Phoenix,Regular,2021-10-31,M
+C0500,18,Philadelphia,Occasional,2022-11-06,F
+C0501,33,San Diego,Regular,2022-02-05,M
+C0502,56,Philadelphia,New,2022-10-25,M
+C0503,22,San Diego,Occasional,2020-05-29,F
+C0504,39,New York,Occasional,2022-12-07,F
+C0505,46,Los Angeles,Regular,2022-06-10,M
+C0506,20,New York,Premium,2021-10-24,Other
+C0507,29,Houston,Regular,2022-05-23,M
+C0508,43,San Antonio,Occasional,2022-11-27,F
+C0509,33,Chicago,Regular,2022-03-13,F
+C0510,68,Los Angeles,Regular,2021-12-23,M
+C0511,54,New York,Occasional,2021-10-14,M
+C0512,39,Phoenix,Premium,2022-07-15,M
+C0513,46,Los Angeles,Occasional,2022-03-05,M
+C0514,31,San Antonio,Premium,2022-05-28,F
+C0515,45,San Diego,New,2021-11-21,M
+C0516,22,Los Angeles,Regular,2022-02-16,M
+C0517,64,San Diego,Regular,2022-04-04,M
+C0518,66,San Antonio,Regular,2022-09-19,M
+C0519,47,New York,Regular,2023-01-01,F
+C0520,63,San Antonio,Occasional,2022-10-24,M
+C0521,69,Los Angeles,Occasional,2022-11-17,F
+C0522,22,Phoenix,Occasional,2022-05-29,M
+C0523,29,Philadelphia,Premium,2022-01-21,M
+C0524,33,Los Angeles,Regular,2022-10-06,F
+C0525,43,San Antonio,Premium,2020-03-16,M
+C0526,43,Philadelphia,Occasional,2022-12-30,F
+C0527,65,San Antonio,New,2021-07-10,F
+C0528,38,Phoenix,Regular,2022-01-08,M
+C0529,56,San Antonio,Regular,2022-07-15,M
+C0530,53,New York,Occasional,2022-12-14,M
+C0531,50,Chicago,Occasional,2022-01-06,M
+C0532,47,San Diego,Occasional,2022-07-08,M
+C0533,54,San Diego,New,2020-04-02,M
+C0534,40,Los Angeles,Regular,2022-03-22,M
+C0535,27,Chicago,Regular,2020-03-13,F
+C0536,22,San Antonio,New,2022-10-03,F
+C0537,53,Phoenix,Occasional,2021-09-16,F
+C0538,51,Los Angeles,Regular,2022-01-16,M
+C0539,69,San Antonio,Occasional,2021-08-29,M
+C0540,48,Philadelphia,Occasional,2022-10-05,F
+C0541,27,Houston,Occasional,2021-11-28,F
+C0542,36,San Antonio,Occasional,2022-04-25,F
+C0543,49,Chicago,Regular,2021-08-24,M
+C0544,18,Los Angeles,Regular,2022-08-10,F
+C0545,22,Chicago,Regular,2020-10-18,F
+C0546,62,Los Angeles,Occasional,2022-11-30,M
+C0547,21,San Antonio,Occasional,2021-05-11,M
+C0548,33,New York,Occasional,2021-01-10,F
+C0549,41,Philadelphia,Premium,2021-04-21,M
+C0550,33,San Antonio,Occasional,2022-04-14,M
+C0551,19,San Diego,Occasional,2022-06-05,F
+C0552,66,Chicago,Occasional,2017-06-01,F
+C0553,45,Houston,Occasional,2022-09-28,M
+C0554,49,Houston,Occasional,2022-03-19,M
+C0555,44,Phoenix,Regular,2021-11-22,M
+C0556,37,Los Angeles,Regular,2021-10-18,F
+C0557,41,Chicago,Premium,2022-10-10,M
+C0558,29,Phoenix,Regular,2021-12-10,Other
+C0559,67,Chicago,Occasional,2021-04-19,M
+C0560,52,San Diego,Occasional,2022-12-14,M
+C0561,50,Los Angeles,Regular,2020-07-30,F
+C0562,50,San Antonio,Premium,2022-12-22,F
+C0563,68,San Antonio,Occasional,2022-07-25,M
+C0564,60,Houston,Premium,2022-12-27,M
+C0565,54,San Antonio,Regular,2022-12-03,Other
+C0566,29,San Antonio,Premium,2020-08-01,M
+C0567,20,San Diego,Regular,2022-07-26,F
+C0568,18,New York,Regular,2022-06-14,M
+C0569,50,Houston,Regular,2022-10-05,F
+C0570,57,Phoenix,Regular,2022-02-04,F
+C0571,27,Philadelphia,New,2022-02-06,M
+C0572,60,New York,Regular,2022-07-16,F
+C0573,61,Phoenix,Occasional,2022-08-07,M
+C0574,46,Los Angeles,Premium,2020-11-03,M
+C0575,30,New York,Regular,2022-07-09,F
+C0576,29,San Diego,Occasional,2022-04-28,M
+C0577,48,Phoenix,Premium,2022-09-02,F
+C0578,63,Los Angeles,Regular,2021-06-16,M
+C0579,19,Houston,Occasional,2022-07-01,M
+C0580,68,Philadelphia,Occasional,2022-04-13,M
+C0581,67,Los Angeles,Premium,2022-09-17,M
+C0582,52,San Antonio,Regular,2018-08-11,M
+C0583,40,Chicago,Occasional,2022-08-29,F
+C0584,34,Los Angeles,Premium,2021-07-13,F
+C0585,43,Los Angeles,Occasional,2022-06-12,F
+C0586,25,Philadelphia,Occasional,2022-10-09,M
+C0587,46,Chicago,New,2021-05-25,M
+C0588,43,San Antonio,Regular,2022-08-06,M
+C0589,27,Phoenix,Occasional,2020-12-31,M
+C0590,43,Phoenix,Regular,2020-07-15,F
+C0591,51,Los Angeles,Regular,2021-01-14,M
+C0592,68,San Diego,Premium,2022-12-19,M
+C0593,58,San Diego,Occasional,2021-06-15,F
+C0594,24,Chicago,Regular,2022-06-22,M
+C0595,21,Chicago,Regular,2020-12-07,M
+C0596,67,San Antonio,Premium,2021-12-27,M
+C0597,62,Philadelphia,Occasional,2021-03-18,M
+C0598,28,Houston,Occasional,2022-04-24,F
+C0599,46,Phoenix,Occasional,2022-03-28,M
+C0600,53,Philadelphia,Regular,2022-11-06,M
+C0601,42,New York,Regular,2021-06-21,M
+C0602,38,Phoenix,Occasional,2022-06-17,M
+C0603,53,Philadelphia,Regular,2022-04-23,M
+C0604,27,Phoenix,Regular,2021-06-19,F
+C0605,54,Houston,Occasional,2022-02-02,F
+C0606,26,New York,New,2022-10-12,F
+C0607,41,San Diego,Occasional,2022-02-10,M
+C0608,52,San Diego,Occasional,2022-06-24,F
+C0609,66,Houston,New,2022-05-15,F
+C0610,52,San Antonio,Regular,2022-12-22,M
+C0611,65,New York,Occasional,2022-10-07,F
+C0612,53,Los Angeles,New,2022-09-03,M
+C0613,35,Philadelphia,Regular,2021-10-03,M
+C0614,66,New York,Occasional,2022-12-28,F
+C0615,56,San Antonio,Occasional,2022-06-24,M
+C0616,49,San Antonio,Occasional,2020-06-05,F
+C0617,41,Houston,Occasional,2022-11-19,M
+C0618,40,Phoenix,New,2022-04-11,F
+C0619,49,New York,Occasional,2021-06-17,F
+C0620,54,Philadelphia,Premium,2020-02-24,F
+C0621,29,New York,New,2021-08-18,M
+C0622,66,Chicago,Regular,2021-09-23,M
+C0623,30,Phoenix,Regular,2021-04-02,M
+C0624,40,Philadelphia,Regular,2022-05-31,M
+C0625,42,San Diego,Regular,2021-05-13,M
+C0626,52,Philadelphia,Regular,2022-12-30,F
+C0627,58,Los Angeles,New,2020-06-02,F
+C0628,47,Houston,Occasional,2022-06-02,Other
+C0629,34,Los Angeles,Occasional,2022-03-13,M
+C0630,66,Philadelphia,Premium,2022-09-16,M
+C0631,37,Phoenix,New,2021-08-24,M
+C0632,65,New York,New,2022-12-03,F
+C0633,42,San Diego,Occasional,2020-12-10,F
+C0634,39,New York,Premium,2021-03-30,F
+C0635,30,Phoenix,Premium,2022-10-05,F
+C0636,36,Philadelphia,Regular,2021-05-07,F
+C0637,66,San Antonio,Premium,2021-06-17,M
+C0638,53,New York,Regular,2022-01-01,M
+C0639,29,San Antonio,New,2022-07-15,F
+C0640,58,New York,Regular,2022-09-08,M
+C0641,36,New York,Premium,2022-09-27,M
+C0642,29,San Diego,Regular,2022-08-14,F
+C0643,26,Houston,Premium,2020-08-31,Other
+C0644,24,Houston,Premium,2022-12-03,F
+C0645,45,Chicago,Regular,2021-03-28,F
+C0646,31,Los Angeles,Regular,2022-07-29,F
+C0647,48,Phoenix,Occasional,2022-04-07,M
+C0648,69,Phoenix,New,2021-06-03,M
+C0649,36,Phoenix,Regular,2020-11-05,F
+C0650,64,Chicago,Regular,2022-07-31,F
+C0651,33,Houston,Occasional,2022-05-20,M
+C0652,22,Philadelphia,Regular,2022-06-20,F
+C0653,52,San Antonio,Regular,2022-12-28,M
+C0654,29,San Diego,New,2022-08-26,M
+C0655,42,San Antonio,Premium,2022-05-22,F
+C0656,69,Philadelphia,Occasional,2022-06-22,M
+C0657,38,San Diego,Occasional,2021-09-21,M
+C0658,53,Chicago,Regular,2022-07-08,M
+C0659,40,Philadelphia,Regular,2022-05-01,F
+C0660,33,Phoenix,Occasional,2022-06-11,M
+C0661,56,Los Angeles,Premium,2021-08-27,F
+C0662,62,New York,Regular,2021-01-06,F
+C0663,59,San Antonio,Occasional,2022-03-30,M
+C0664,56,Houston,Regular,2021-06-12,Other
+C0665,31,Houston,Premium,2022-08-26,M
+C0666,48,Chicago,New,2022-03-23,Other
+C0667,22,San Diego,Regular,2022-07-31,F
+C0668,52,Houston,Occasional,2022-06-20,Other
+C0669,40,Phoenix,Occasional,2021-09-07,M
+C0670,46,San Antonio,Occasional,2020-11-14,F
+C0671,60,Philadelphia,Regular,2022-11-15,M
+C0672,28,Phoenix,New,2021-12-30,M
+C0673,35,Chicago,Premium,2022-02-17,F
+C0674,64,Phoenix,Occasional,2022-11-16,M
+C0675,29,Philadelphia,Regular,2022-10-07,F
+C0676,26,Los Angeles,Regular,2022-08-19,M
+C0677,27,Chicago,Regular,2022-10-27,M
+C0678,61,Los Angeles,New,2022-09-22,F
+C0679,34,New York,New,2022-09-10,M
+C0680,55,Los Angeles,Regular,2022-08-05,F
+C0681,24,New York,Premium,2021-08-14,F
+C0682,63,New York,Occasional,2022-02-26,F
+C0683,30,Los Angeles,Regular,2018-09-20,M
+C0684,57,Chicago,Premium,2022-06-20,F
+C0685,59,San Diego,Occasional,2021-08-08,Other
+C0686,26,Philadelphia,Regular,2020-12-14,F
+C0687,67,Phoenix,New,2021-11-13,F
+C0688,44,Phoenix,Regular,2022-06-22,F
+C0689,19,Philadelphia,Regular,2021-08-08,F
+C0690,22,San Antonio,Regular,2022-10-10,F
+C0691,46,San Antonio,Occasional,2022-08-10,M
+C0692,54,New York,Regular,2022-03-19,M
+C0693,55,New York,Occasional,2022-02-23,F
+C0694,36,Chicago,Regular,2022-12-24,M
+C0695,25,Houston,Occasional,2020-02-07,F
+C0696,65,Los Angeles,Regular,2021-10-23,M
+C0697,62,New York,Premium,2022-04-27,F
+C0698,18,Phoenix,Occasional,2020-04-19,M
+C0699,39,Chicago,Regular,2022-06-04,M
+C0700,69,Los Angeles,Premium,2019-01-27,F
+C0701,34,Chicago,New,2022-04-14,F
+C0702,24,Los Angeles,Regular,2022-11-18,F
+C0703,42,Los Angeles,Occasional,2021-07-22,M
+C0704,62,Philadelphia,Regular,2021-11-13,F
+C0705,21,New York,Occasional,2021-07-09,F
+C0706,53,San Diego,Premium,2019-12-24,F
+C0707,23,Chicago,Regular,2021-07-04,M
+C0708,48,San Diego,New,2022-01-22,F
+C0709,36,Chicago,Occasional,2021-01-21,F
+C0710,61,Philadelphia,Regular,2021-11-19,Other
+C0711,56,Phoenix,Regular,2022-06-24,M
+C0712,44,San Diego,New,2020-11-01,F
+C0713,27,Phoenix,Regular,2022-10-02,F
+C0714,43,San Antonio,Occasional,2021-10-01,M
+C0715,36,New York,Occasional,2020-11-14,M
+C0716,56,New York,Premium,2021-09-09,M
+C0717,20,Houston,Premium,2021-10-22,M
+C0718,62,Philadelphia,Occasional,2021-08-10,M
+C0719,30,Phoenix,Regular,2022-05-18,F
+C0720,67,Los Angeles,Regular,2020-12-06,F
+C0721,45,Chicago,New,2022-10-10,F
+C0722,37,New York,Occasional,2022-11-13,F
+C0723,45,San Diego,Occasional,2022-09-01,M
+C0724,25,Chicago,Occasional,2022-03-31,M
+C0725,58,Chicago,Occasional,2022-04-16,F
+C0726,56,Houston,Premium,2021-04-14,M
+C0727,18,Phoenix,Regular,2022-06-26,M
+C0728,20,New York,Regular,2022-05-05,M
+C0729,30,Chicago,Regular,2022-12-28,M
+C0730,45,New York,Occasional,2022-06-23,F
+C0731,66,Los Angeles,Regular,2021-12-17,M
+C0732,42,Houston,Regular,2022-12-27,M
+C0733,50,Los Angeles,Regular,2022-09-03,M
+C0734,55,New York,Premium,2022-10-08,F
+C0735,23,San Antonio,Regular,2022-12-17,M
+C0736,61,San Diego,Regular,2022-05-08,F
+C0737,62,New York,Regular,2022-10-20,M
+C0738,49,Phoenix,Premium,2021-08-23,M
+C0739,62,Chicago,Regular,2021-02-13,F
+C0740,64,Chicago,Occasional,2022-03-20,M
+C0741,38,Los Angeles,Regular,2019-01-02,M
+C0742,33,San Diego,Regular,2022-05-28,M
+C0743,38,Houston,Occasional,2022-04-14,F
+C0744,28,San Antonio,Regular,2018-06-23,M
+C0745,54,Philadelphia,New,2022-09-27,F
+C0746,53,San Diego,Regular,2020-02-24,M
+C0747,52,Chicago,Regular,2022-12-17,M
+C0748,36,Phoenix,Occasional,2022-05-31,M
+C0749,37,San Diego,Regular,2022-12-06,F
+C0750,35,Los Angeles,Occasional,2021-09-12,M
+C0751,64,Los Angeles,Regular,2022-01-24,M
+C0752,58,Philadelphia,New,2021-10-11,M
+C0753,66,Phoenix,Regular,2022-07-14,M
+C0754,31,Houston,Regular,2022-07-17,M
+C0755,32,San Diego,Occasional,2022-12-16,F
+C0756,48,Phoenix,Premium,2022-07-28,M
+C0757,18,Houston,Regular,2020-05-10,M
+C0758,20,Phoenix,Occasional,2022-07-11,F
+C0759,33,Phoenix,Occasional,2021-03-23,M
+C0760,40,New York,Regular,2021-02-26,M
+C0761,28,Los Angeles,Occasional,2022-07-15,M
+C0762,29,San Diego,New,2022-01-02,F
+C0763,27,Phoenix,New,2022-11-26,M
+C0764,49,San Diego,Premium,2022-11-23,F
+C0765,33,Philadelphia,Occasional,2022-12-14,M
+C0766,25,Phoenix,Regular,2022-02-18,F
+C0767,55,Chicago,New,2022-06-13,M
+C0768,29,Los Angeles,Regular,2022-03-18,F
+C0769,41,Chicago,Premium,2022-04-08,F
+C0770,45,San Diego,Occasional,2022-07-28,F
+C0771,25,San Diego,Regular,2021-11-14,M
+C0772,45,Los Angeles,New,2021-08-01,M
+C0773,53,San Diego,New,2022-12-27,M
+C0774,43,Chicago,Occasional,2022-10-09,M
+C0775,25,Phoenix,Premium,2021-10-03,M
+C0776,67,Phoenix,Occasional,2022-07-07,F
+C0777,45,New York,Premium,2021-12-01,M
+C0778,45,Philadelphia,Premium,2022-07-30,M
+C0779,54,San Diego,Occasional,2022-07-05,F
+C0780,58,Chicago,Regular,2022-10-30,F
+C0781,53,San Diego,Regular,2022-09-14,M
+C0782,44,San Diego,New,2022-01-27,F
+C0783,34,Houston,Regular,2022-06-08,M
+C0784,26,New York,Regular,2021-07-07,F
+C0785,50,Chicago,New,2021-02-02,F
+C0786,37,Chicago,Premium,2022-03-23,F
+C0787,30,San Diego,Occasional,2021-08-01,F
+C0788,45,New York,New,2022-08-21,M
+C0789,65,Phoenix,New,2022-06-20,M
+C0790,46,Chicago,Occasional,2021-10-03,F
+C0791,30,Phoenix,Regular,2022-07-07,M
+C0792,63,New York,Regular,2022-02-11,F
+C0793,52,Phoenix,Occasional,2022-10-19,M
+C0794,23,Los Angeles,New,2022-02-01,M
+C0795,35,Houston,Regular,2021-01-10,M
+C0796,68,San Antonio,Regular,2020-12-22,M
+C0797,22,Chicago,Premium,2021-09-18,F
+C0798,64,Philadelphia,Premium,2021-08-20,F
+C0799,42,Houston,Occasional,2022-03-10,F
+C0800,19,San Antonio,Regular,2022-02-15,F
+C0801,27,Phoenix,New,2022-11-10,F
+C0802,47,Chicago,Occasional,2022-06-01,F
+C0803,67,Phoenix,Regular,2022-05-28,M
+C0804,62,Los Angeles,Occasional,2019-10-28,F
+C0805,22,New York,Regular,2022-06-10,M
+C0806,50,Chicago,Occasional,2022-03-17,M
+C0807,18,San Antonio,Occasional,2022-03-29,F
+C0808,35,San Antonio,Occasional,2021-12-28,M
+C0809,49,Los Angeles,Occasional,2021-08-16,M
+C0810,64,Los Angeles,Regular,2022-09-30,M
+C0811,66,San Diego,Premium,2022-04-02,M
+C0812,28,Chicago,Occasional,2021-04-03,F
+C0813,38,Phoenix,Premium,2022-05-19,M
+C0814,43,Philadelphia,Regular,2022-09-04,M
+C0815,42,San Antonio,Premium,2021-12-09,M
+C0816,39,San Antonio,Occasional,2021-04-08,M
+C0817,44,Los Angeles,Regular,2022-12-09,F
+C0818,66,Houston,Occasional,2021-07-03,M
+C0819,30,Los Angeles,New,2021-04-12,F
+C0820,50,Philadelphia,Premium,2022-05-21,F
+C0821,51,Phoenix,Premium,2018-11-30,F
+C0822,58,Phoenix,Regular,2021-06-17,F
+C0823,52,Houston,New,2021-07-08,F
+C0824,18,San Antonio,Regular,2021-08-17,M
+C0825,38,Los Angeles,Regular,2022-11-03,M
+C0826,65,San Diego,Premium,2022-10-04,M
+C0827,23,Phoenix,Occasional,2022-05-19,F
+C0828,45,Philadelphia,Regular,2022-09-12,M
+C0829,34,Chicago,Occasional,2022-06-20,M
+C0830,22,New York,New,2020-10-23,M
+C0831,48,New York,Regular,2021-04-07,M
+C0832,22,New York,Occasional,2022-01-04,M
+C0833,55,San Diego,Premium,2021-01-19,Other
+C0834,20,San Antonio,New,2021-06-22,M
+C0835,40,Los Angeles,Occasional,2022-06-11,F
+C0836,54,Houston,New,2022-10-12,F
+C0837,54,San Diego,Premium,2022-04-13,M
+C0838,27,San Diego,Regular,2021-09-02,M
+C0839,27,Phoenix,Regular,2022-06-06,M
+C0840,36,Chicago,Regular,2021-11-26,M
+C0841,34,San Diego,Regular,2022-11-26,F
+C0842,38,Philadelphia,Regular,2021-08-16,M
+C0843,31,Chicago,Premium,2021-04-30,M
+C0844,26,Philadelphia,Regular,2021-10-11,F
+C0845,63,San Antonio,Occasional,2019-08-02,F
+C0846,18,Los Angeles,Regular,2021-04-02,F
+C0847,68,New York,Premium,2020-09-02,F
+C0848,62,San Diego,Regular,2020-04-17,F
+C0849,30,Los Angeles,Premium,2021-05-22,M
+C0850,21,San Antonio,New,2021-11-18,F
+C0851,18,Houston,Premium,2022-12-30,M
+C0852,66,Houston,Occasional,2022-05-18,F
+C0853,57,San Antonio,New,2022-02-26,F
+C0854,49,Philadelphia,Occasional,2022-08-22,M
+C0855,51,Phoenix,Occasional,2022-08-15,F
+C0856,45,Phoenix,Occasional,2019-10-04,F
+C0857,48,Philadelphia,New,2020-10-12,M
+C0858,25,Houston,Occasional,2021-02-10,F
+C0859,56,Houston,Occasional,2022-06-25,M
+C0860,43,San Diego,Occasional,2022-12-27,F
+C0861,51,Houston,Regular,2022-12-02,F
+C0862,20,Los Angeles,Occasional,2022-08-18,F
+C0863,67,Houston,Regular,2022-12-27,F
+C0864,29,Chicago,Regular,2022-12-26,F
+C0865,18,San Diego,Premium,2020-07-09,F
+C0866,61,New York,Premium,2021-10-11,M
+C0867,22,Houston,Regular,2022-08-20,F
+C0868,47,Philadelphia,Premium,2022-11-11,M
+C0869,47,New York,Occasional,2022-04-15,F
+C0870,34,Los Angeles,Regular,2022-12-31,M
+C0871,65,Philadelphia,Occasional,2020-03-20,M
+C0872,64,New York,Premium,2022-06-20,F
+C0873,40,Philadelphia,Regular,2022-06-28,M
+C0874,32,Los Angeles,Occasional,2022-07-05,M
+C0875,54,San Diego,Occasional,2022-12-06,M
+C0876,38,Chicago,Premium,2021-12-26,M
+C0877,31,Los Angeles,New,2021-09-07,M
+C0878,19,Los Angeles,New,2021-11-16,M
+C0879,28,Philadelphia,Regular,2022-11-08,M
+C0880,68,San Diego,Regular,2022-02-20,M
+C0881,56,San Antonio,New,2022-02-28,F
+C0882,55,Phoenix,Occasional,2020-12-22,M
+C0883,51,Houston,Regular,2022-07-12,F
+C0884,55,Houston,Occasional,2022-07-16,F
+C0885,67,Chicago,Regular,2022-01-15,M
+C0886,51,Chicago,Regular,2022-01-01,F
+C0887,35,Houston,Regular,2022-05-15,F
+C0888,47,Phoenix,Occasional,2022-06-02,Other
+C0889,32,Houston,Occasional,2022-04-28,F
+C0890,44,San Antonio,Occasional,2021-01-11,M
+C0891,68,Phoenix,Regular,2022-05-21,F
+C0892,51,Chicago,Regular,2020-03-11,F
+C0893,69,New York,Regular,2022-04-21,F
+C0894,55,Philadelphia,Occasional,2020-01-10,M
+C0895,50,San Antonio,Regular,2021-03-20,F
+C0896,41,San Antonio,Premium,2022-07-21,F
+C0897,32,San Diego,New,2021-01-04,M
+C0898,47,Chicago,Premium,2022-11-20,M
+C0899,59,Chicago,New,2020-05-31,M
+C0900,68,Los Angeles,Premium,2022-01-02,F
+C0901,34,San Antonio,Occasional,2022-12-12,F
+C0902,22,Los Angeles,Premium,2021-12-20,F
+C0903,46,Los Angeles,New,2019-05-07,M
+C0904,21,Philadelphia,Regular,2022-12-06,F
+C0905,27,Los Angeles,Premium,2022-03-12,M
+C0906,34,Phoenix,Regular,2021-08-17,M
+C0907,27,Houston,Regular,2021-05-05,F
+C0908,34,New York,Regular,2022-06-21,Other
+C0909,37,Chicago,New,2022-10-10,F
+C0910,41,Phoenix,Regular,2022-12-17,F
+C0911,22,New York,Occasional,2022-02-19,M
+C0912,51,San Antonio,Occasional,2022-05-26,M
+C0913,23,San Antonio,Occasional,2020-01-13,F
+C0914,19,San Antonio,Premium,2022-12-10,F
+C0915,30,Phoenix,Regular,2021-11-05,M
+C0916,60,Phoenix,Occasional,2022-12-23,M
+C0917,60,Chicago,New,2022-10-25,M
+C0918,65,Houston,Regular,2022-05-26,F
+C0919,28,San Diego,Regular,2022-05-25,M
+C0920,68,Los Angeles,Regular,2021-11-05,M
+C0921,64,San Antonio,New,2020-08-05,M
+C0922,40,Philadelphia,Regular,2021-12-26,M
+C0923,33,Houston,Regular,2019-12-08,F
+C0924,48,Philadelphia,New,2020-11-14,M
+C0925,28,Chicago,Premium,2022-02-15,F
+C0926,33,Chicago,Premium,2021-03-18,F
+C0927,25,Chicago,Occasional,2021-12-22,F
+C0928,21,New York,New,2022-12-03,M
+C0929,57,Philadelphia,Regular,2021-08-27,Other
+C0930,21,Houston,Regular,2022-11-26,F
+C0931,42,San Diego,Regular,2022-02-06,Other
+C0932,20,Houston,Regular,2021-10-16,F
+C0933,49,Phoenix,Occasional,2022-12-07,M
+C0934,20,Phoenix,Regular,2022-09-28,M
+C0935,44,San Antonio,Regular,2020-07-13,M
+C0936,46,San Diego,Regular,2022-01-17,F
+C0937,49,Phoenix,Occasional,2022-09-20,M
+C0938,67,Chicago,Regular,2021-10-30,M
+C0939,68,Houston,New,2022-02-04,M
+C0940,36,Philadelphia,Premium,2022-04-22,M
+C0941,38,Chicago,Occasional,2019-04-08,M
+C0942,22,New York,Occasional,2021-11-08,M
+C0943,35,Phoenix,Regular,2022-07-14,M
+C0944,45,Chicago,Regular,2021-05-24,M
+C0945,59,Chicago,Regular,2020-11-04,M
+C0946,39,New York,Regular,2022-11-14,M
+C0947,38,Los Angeles,Regular,2022-10-12,F
+C0948,23,Houston,Premium,2022-10-05,F
+C0949,18,Philadelphia,Regular,2021-10-30,M
+C0950,22,San Antonio,Occasional,2022-01-29,M
+C0951,58,Los Angeles,Regular,2022-01-14,F
+C0952,29,Phoenix,Occasional,2020-03-06,F
+C0953,43,Chicago,Regular,2021-07-05,F
+C0954,63,San Diego,New,2022-11-13,F
+C0955,51,New York,Occasional,2022-07-30,M
+C0956,66,New York,Premium,2022-06-07,M
+C0957,31,San Diego,Occasional,2022-07-01,M
+C0958,43,Houston,Premium,2021-11-24,F
+C0959,62,Los Angeles,Regular,2020-10-12,F
+C0960,44,San Antonio,New,2022-08-21,F
+C0961,26,Houston,Regular,2022-03-15,M
+C0962,43,San Diego,Regular,2021-06-12,F
+C0963,64,Chicago,Occasional,2022-06-19,M
+C0964,39,San Diego,New,2022-10-26,M
+C0965,64,Houston,Occasional,2022-05-11,M
+C0966,47,Philadelphia,Regular,2022-12-12,F
+C0967,60,New York,Occasional,2020-02-25,M
+C0968,65,New York,Regular,2022-12-04,F
+C0969,34,Phoenix,Occasional,2022-06-05,M
+C0970,43,Phoenix,New,2022-04-01,F
+C0971,53,San Diego,Occasional,2018-10-14,F
+C0972,18,San Antonio,New,2022-10-27,M
+C0973,25,Chicago,Premium,2022-11-18,F
+C0974,66,Philadelphia,Occasional,2022-12-29,F
+C0975,52,Los Angeles,Occasional,2022-11-01,F
+C0976,69,Houston,Premium,2022-10-09,F
+C0977,32,San Antonio,New,2022-01-03,F
+C0978,64,Chicago,Regular,2022-10-03,M
+C0979,39,Phoenix,Occasional,2022-12-25,F
+C0980,31,San Diego,Occasional,2021-04-02,M
+C0981,43,Houston,Occasional,2022-07-19,M
+C0982,45,Phoenix,Premium,2022-07-26,M
+C0983,40,San Diego,Occasional,2022-08-23,F
+C0984,31,Houston,Regular,2019-04-21,F
+C0985,41,Los Angeles,New,2022-10-25,M
+C0986,19,Chicago,Regular,2020-09-19,F
+C0987,62,Houston,Regular,2021-07-03,F
+C0988,43,Philadelphia,Occasional,2022-12-03,M
+C0989,31,San Antonio,Regular,2018-09-07,M
+C0990,68,New York,Occasional,2022-09-08,F
+C0991,24,Philadelphia,Occasional,2022-11-25,M
+C0992,20,Philadelphia,New,2021-03-27,F
+C0993,64,San Antonio,Occasional,2021-10-11,M
+C0994,40,New York,Regular,2022-01-16,M
+C0995,63,Philadelphia,Premium,2022-11-01,F
+C0996,60,Houston,Premium,2022-05-09,F
+C0997,64,Houston,Regular,2021-06-27,F
+C0998,62,Houston,Regular,2022-08-22,F
+C0999,35,New York,Occasional,2022-08-18,F
+C1000,55,Philadelphia,Occasional,2022-12-31,F
+C1001,52,San Diego,Regular,2022-10-24,M
+C1002,68,New York,Occasional,2020-12-02,F
+C1003,32,Houston,New,2022-06-03,M
+C1004,42,San Antonio,Occasional,2018-11-09,F
+C1005,54,Philadelphia,Occasional,2022-07-02,M
+C1006,45,Philadelphia,Regular,2021-09-30,F
+C1007,27,Phoenix,Regular,2022-09-03,M
+C1008,56,Phoenix,Premium,2022-07-20,F
+C1009,34,Los Angeles,Regular,2022-10-16,F
+C1010,56,San Diego,New,2022-07-30,M
+C1011,39,San Diego,Occasional,2022-03-18,F
+C1012,43,Chicago,Regular,2018-03-16,M
+C1013,61,San Diego,Regular,2021-11-29,F
+C1014,42,Phoenix,Occasional,2022-10-12,F
+C1015,34,New York,Premium,2022-12-16,M
+C1016,30,San Diego,Regular,2022-11-13,F
+C1017,37,Phoenix,New,2022-03-06,M
+C1018,42,Los Angeles,Regular,2021-07-22,M
+C1019,21,Philadelphia,Premium,2020-03-08,F
+C1020,27,San Diego,Regular,2022-12-27,M
+C1021,20,Los Angeles,New,2022-04-06,Other
+C1022,58,Philadelphia,Occasional,2022-05-14,F
+C1023,62,San Antonio,Regular,2021-12-08,M
+C1024,35,San Antonio,Regular,2022-03-08,F
+C1025,64,Philadelphia,Regular,2021-11-03,M
+C1026,53,San Diego,Occasional,2021-12-06,M
+C1027,64,Chicago,Occasional,2022-11-17,M
+C1028,39,Phoenix,Premium,2021-05-25,M
+C1029,51,New York,New,2022-11-14,M
+C1030,64,New York,Premium,2021-10-21,M
+C1031,25,Houston,Regular,2022-06-19,Other
+C1032,57,Philadelphia,Premium,2022-04-13,F
+C1033,66,New York,Regular,2020-09-01,F
+C1034,61,San Diego,Regular,2020-10-18,F
+C1035,36,Chicago,Regular,2021-04-20,F
+C1036,59,Philadelphia,Regular,2022-04-16,M
+C1037,58,Chicago,Occasional,2021-09-02,F
+C1038,54,San Diego,Premium,2022-04-14,Other
+C1039,23,New York,Occasional,2020-12-19,M
+C1040,69,New York,New,2022-06-27,F
+C1041,43,Houston,Regular,2019-06-29,F
+C1042,51,New York,Regular,2020-04-24,F
+C1043,62,Philadelphia,Regular,2021-08-26,F
+C1044,23,San Diego,Premium,2022-09-04,M
+C1045,54,San Antonio,Regular,2022-11-11,M
+C1046,50,San Diego,Occasional,2021-01-27,M
+C1047,39,Philadelphia,Occasional,2022-10-28,F
+C1048,38,Philadelphia,Premium,2021-01-29,M
+C1049,23,Houston,Occasional,2022-04-30,F
+C1050,23,Houston,Regular,2022-06-25,M
+C1051,65,New York,Occasional,2020-09-01,M
+C1052,21,Los Angeles,Occasional,2022-01-29,M
+C1053,47,San Diego,Occasional,2022-02-22,F
+C1054,28,San Diego,Premium,2022-03-09,M
+C1055,47,Los Angeles,Regular,2022-07-16,M
+C1056,48,Houston,New,2021-06-18,F
+C1057,41,New York,Regular,2022-09-17,M
+C1058,26,Los Angeles,New,2020-03-17,M
+C1059,20,New York,Regular,2020-10-04,F
+C1060,68,New York,Premium,2022-08-04,F
+C1061,48,New York,Premium,2021-09-11,M
+C1062,57,Phoenix,Regular,2022-02-25,F
+C1063,54,Philadelphia,New,2022-08-04,Other
+C1064,53,New York,Regular,2018-07-16,F
+C1065,41,Phoenix,Regular,2022-12-23,F
+C1066,48,Houston,Regular,2022-09-17,F
+C1067,23,Los Angeles,Premium,2022-04-09,F
+C1068,19,Philadelphia,Regular,2022-04-07,F
+C1069,37,San Antonio,Premium,2022-02-11,M
+C1070,45,Los Angeles,Occasional,2021-08-11,F
+C1071,28,Philadelphia,Regular,2022-01-10,F
+C1072,21,San Antonio,Regular,2022-02-01,M
+C1073,32,Los Angeles,Regular,2022-12-12,M
+C1074,23,Philadelphia,Regular,2022-07-13,F
+C1075,66,Los Angeles,New,2022-09-27,F
+C1076,47,Los Angeles,Regular,2022-09-11,M
+C1077,55,San Antonio,Premium,2022-03-13,F
+C1078,68,Los Angeles,Occasional,2022-10-12,M
+C1079,19,Los Angeles,Regular,2022-08-27,M
+C1080,32,San Antonio,Premium,2022-09-25,F
+C1081,28,Houston,New,2020-01-15,M
+C1082,25,New York,Occasional,2020-02-10,M
+C1083,43,San Diego,New,2022-01-23,F
+C1084,68,Chicago,Regular,2020-06-02,M
+C1085,62,Phoenix,Regular,2021-06-18,M
+C1086,61,Chicago,Regular,2022-02-10,Other
+C1087,22,Chicago,Regular,2022-12-30,F
+C1088,23,Philadelphia,Occasional,2021-07-10,F
+C1089,43,New York,Regular,2021-10-16,F
+C1090,21,Philadelphia,Occasional,2022-01-18,M
+C1091,36,New York,Occasional,2021-07-29,F
+C1092,37,San Antonio,Regular,2022-04-14,F
+C1093,50,San Antonio,Regular,2021-10-14,F
+C1094,37,San Diego,Occasional,2020-04-08,F
+C1095,66,New York,Regular,2022-07-13,F
+C1096,29,Los Angeles,Occasional,2021-10-09,M
+C1097,64,Houston,Regular,2022-05-11,M
+C1098,18,San Diego,Regular,2021-11-18,F
+C1099,43,San Diego,Occasional,2021-07-25,F
+C1100,31,Los Angeles,New,2022-12-16,F
+C1101,55,Houston,Regular,2021-12-18,M
+C1102,54,Philadelphia,Occasional,2022-09-30,F
+C1103,28,Houston,Regular,2021-11-23,F
+C1104,53,Philadelphia,Occasional,2022-05-16,F
+C1105,30,San Antonio,Occasional,2021-07-08,F
+C1106,60,Chicago,Regular,2022-11-14,F
+C1107,20,San Antonio,Regular,2022-01-07,F
+C1108,50,San Antonio,Occasional,2022-09-04,F
+C1109,23,Chicago,Regular,2021-02-01,F
+C1110,67,Houston,Occasional,2020-05-14,F
+C1111,27,San Diego,Premium,2017-05-19,F
+C1112,22,Houston,New,2021-05-31,F
+C1113,40,Philadelphia,Occasional,2021-08-08,F
+C1114,27,Los Angeles,New,2022-10-05,F
+C1115,61,Philadelphia,Premium,2022-08-05,M
+C1116,19,Los Angeles,Occasional,2022-05-18,M
+C1117,30,San Antonio,Occasional,2021-07-09,Other
+C1118,57,Chicago,Regular,2020-07-16,F
+C1119,19,San Antonio,Regular,2022-10-17,F
+C1120,37,New York,Premium,2020-06-13,F
+C1121,18,Houston,Occasional,2021-10-24,F
+C1122,54,Los Angeles,Regular,2022-01-22,F
+C1123,26,Philadelphia,Premium,2022-10-12,F
+C1124,34,Chicago,Occasional,2022-12-12,F
+C1125,26,Los Angeles,Regular,2022-03-01,M
+C1126,28,Philadelphia,Premium,2021-12-13,M
+C1127,32,Houston,New,2022-10-07,M
+C1128,41,San Antonio,New,2022-03-11,M
+C1129,55,Houston,Regular,2021-01-23,F
+C1130,52,Phoenix,Premium,2021-03-15,M
+C1131,47,New York,Occasional,2020-05-19,M
+C1132,48,Phoenix,Regular,2022-07-19,M
+C1133,66,Chicago,Regular,2022-08-15,M
+C1134,22,Los Angeles,Regular,2021-08-14,F
+C1135,61,Chicago,Regular,2022-06-10,F
+C1136,67,San Antonio,Occasional,2022-11-29,F
+C1137,31,Philadelphia,Regular,2022-09-02,M
+C1138,28,Houston,Occasional,2022-06-18,M
+C1139,26,Phoenix,New,2022-08-28,M
+C1140,51,San Diego,Regular,2022-08-07,F
+C1141,29,Phoenix,Occasional,2022-08-28,M
+C1142,52,San Antonio,New,2022-12-17,F
+C1143,52,Phoenix,Regular,2021-12-28,M
+C1144,18,San Antonio,Regular,2022-02-04,F
+C1145,57,San Diego,Occasional,2021-12-11,M
+C1146,39,Chicago,Occasional,2022-10-16,M
+C1147,46,Houston,Occasional,2022-08-27,F
+C1148,25,Los Angeles,Regular,2022-01-14,M
+C1149,28,Philadelphia,New,2022-02-01,M
+C1150,58,Los Angeles,Premium,2022-04-19,F
+C1151,54,Chicago,Premium,2022-07-28,F
+C1152,31,Philadelphia,Occasional,2020-07-25,F
+C1153,47,Phoenix,Regular,2022-08-03,M
+C1154,52,San Diego,Regular,2022-05-25,M
+C1155,38,San Diego,Regular,2021-11-14,M
+C1156,54,New York,Regular,2022-03-22,M
+C1157,22,Chicago,Premium,2022-07-30,F
+C1158,36,Chicago,New,2022-06-07,F
+C1159,31,Houston,Regular,2021-06-03,M
+C1160,43,Los Angeles,Occasional,2022-09-05,F
+C1161,21,Chicago,Occasional,2022-11-06,M
+C1162,42,Chicago,New,2022-08-17,F
+C1163,62,Phoenix,Premium,2021-02-09,M
+C1164,59,Phoenix,New,2022-11-28,M
+C1165,42,Philadelphia,Regular,2018-03-20,F
+C1166,35,San Antonio,Occasional,2022-03-23,F
+C1167,57,San Antonio,Occasional,2018-10-25,F
+C1168,25,New York,Occasional,2020-03-17,M
+C1169,56,San Antonio,Regular,2022-05-26,M
+C1170,57,Houston,Occasional,2022-10-13,F
+C1171,31,New York,Regular,2022-10-28,M
+C1172,49,Philadelphia,Occasional,2022-09-23,F
+C1173,68,Phoenix,New,2021-10-07,M
+C1174,55,San Antonio,Regular,2022-09-07,F
+C1175,50,Los Angeles,New,2022-08-02,F
+C1176,40,Phoenix,Premium,2022-05-29,M
+C1177,32,San Diego,Premium,2020-07-23,F
+C1178,50,Houston,Premium,2022-10-17,F
+C1179,42,Phoenix,Regular,2022-12-31,M
+C1180,34,Houston,Occasional,2022-12-10,F
+C1181,50,Houston,Premium,2020-08-26,F
+C1182,64,Houston,Premium,2021-12-17,M
+C1183,19,Philadelphia,New,2022-09-07,M
+C1184,31,Houston,Occasional,2022-10-22,M
+C1185,57,Houston,Occasional,2022-08-27,F
+C1186,57,San Diego,New,2022-11-18,F
+C1187,68,Los Angeles,Occasional,2020-03-01,F
+C1188,56,New York,Premium,2021-06-21,Other
+C1189,68,Chicago,Regular,2022-05-20,F
+C1190,23,San Diego,Occasional,2021-01-01,F
+C1191,23,New York,Regular,2022-09-19,M
+C1192,20,Houston,Occasional,2021-09-28,F
+C1193,24,Los Angeles,Premium,2021-01-24,M
+C1194,68,Phoenix,Regular,2022-07-24,F
+C1195,25,Los Angeles,Regular,2021-08-02,M
+C1196,59,San Diego,Occasional,2022-08-27,M
+C1197,69,Houston,Occasional,2022-08-25,M
+C1198,32,Los Angeles,Occasional,2022-11-21,M
+C1199,64,San Antonio,Premium,2022-06-04,F
+C1200,46,Los Angeles,Premium,2021-09-11,M
