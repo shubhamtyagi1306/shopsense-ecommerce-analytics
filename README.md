@@ -1,4 +1,4 @@
-# 🛒 ShopSense — E-Commerce Sales Analytics
+# 🛒 ShopSense - E-Commerce Sales Analytics
 
 > **E-Commerce Sales Analytics: Customer Behaviour, Revenue Trends and Churn Risk Analysis Using Python**
 
